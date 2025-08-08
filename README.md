@@ -1,8 +1,7 @@
-# 🧬 A Comparative Study of Cellular Automata and Alternative Algorithms in Medical Imaging
+# A Comparative Study of Cellular Automata and Alternative Algorithms in Medical Imaging
 
 This repository contains the implementation, analysis, and comparison of cellular automata (CA)-based algorithms and enhanced image processing techniques for breast cancer detection through mammogram analysis.
-
-📄 [**Read the full paper here**](./Final%20Paper%20(Saruultugs%20and%20Kushal).pdf)
+[**Read the full paper here**](https://github.com/saruulmeister/Comparative-Study-in-Medical-Imaging/blob/main/Final%20Paper%20(Saruultugs%20and%20Kushal).pdf)
 
 ---
 
@@ -54,11 +53,11 @@ The goal is to enhance both image quality and computational performance for more
 - Successfully detects both malignant and benign tumors.
 - Enhanced segmentation accuracy and region labeling.
 
-> 🧪 See `figures/` or the [paper](./Final%20Paper%20(Saruultugs%20and%20Kushal).pdf) for visual comparisons.
+> See `figures/` or the [paper](https://github.com/saruulmeister/Comparative-Study-in-Medical-Imaging/blob/main/Final%20Paper%20(Saruultugs%20and%20Kushal).pdf) for visual comparisons.
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 | Metric | CA-Based Method | Proposed Method |
 |--------|------------------|-----------------|
